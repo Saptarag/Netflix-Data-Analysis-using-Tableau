@@ -17,6 +17,6 @@ Netflix is one of the most popular media and video streaming platforms, boasting
 This dashboard empowers Netflix to refine content strategies and cater to diverse viewer interests effectively.
 
 # Visualization
-Tableau Dashboard Link - Here
+Tableau Dashboard Link - [Here](https://public.tableau.com/shared/SP6RGWBKZ?:display_count=n&:origin=viz_share_link)
 
 ![Netflix](https://github.com/user-attachments/assets/84bb0188-1df9-49d5-ac51-abe89172c84e)
