@@ -4,7 +4,7 @@
 
 This Tableau dashboard provides a comprehensive analysis of Netflix's content library, offering insights into content growth, genre preferences, geographic diversity, and ratings to support data-driven decisions for content acquisition and user engagement.
 
-# Key Features
+Key Features
 
     Content Growth: Visualized trends in movies and TV shows by year, highlighting peak growth in 2019.
     Top Genres: Identified popular genres like documentaries (299 titles) and standup comedy (273 titles) to understand viewer preferences.
